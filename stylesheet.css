@@ -19,8 +19,8 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;-d
-背景画像:画像.jpg;
-  背景サイズ:カバー;
+  background-img:gazou.jpg;
+  background-size:cover;
   color: white;
   text-align: center; 
 }
